@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+ul,
+li {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.title {
+  width: 519px;
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 100%;
+  color: #fc640c;
+}
+.button {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  color: #ffffff;
+  background-color: #fc640c;
+  border-radius: 8px;
+  padding: 16px 32px 16px 32px;
+  display: inline-block;
+  text-decoration: none;
+}
+.text {
+  width: 519px;
+}
